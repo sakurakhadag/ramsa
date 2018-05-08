@@ -9,7 +9,7 @@ Mostly made using HTML, CSS, JS and PHP.
 The webpage is in index.html.
 This is a one page website, so there is only one html file.
 
-The [CSS folder](https://github.com/sakurakhadag/ramsa/css) contains all Style Sheets for this website.
+The [CSS folder](https://github.com/sakurakhadag/ramsa/css/) contains all Style Sheets for this website.
   The main.css file has the CSS for all the sections in the website.
   The other .css files have been used in adding functionalities to the website, such as the Owl Carousel
   
