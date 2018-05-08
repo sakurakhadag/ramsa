@@ -9,11 +9,11 @@ Mostly made using HTML, CSS, JS and PHP.
 The webpage is in index.html.
 This is a one page website, so there is only one html file.
 
-The [CSS folder](https://github.com/sakurakhadag/ramsa/css/) contains all Style Sheets for this website.
+The [CSS folder](css/) contains all Style Sheets for this website.
   The main.css file has the CSS for all the sections in the website.
   The other .css files have been used in adding functionalities to the website, such as the Owl Carousel
   
-The [js folder](https://github.com/sakurakhadag/ramsa/js) has the JavaScript files for the project.
+The [js folder](ramsa/js) has the JavaScript files for the project.
   The main.js files which contains the implementation of all functionalities used.
   Also included are owl.carousel.js for the Owl Carousel in the Speaker Section, smoothscroll.js for Smooth Scrolling, etc.
   
