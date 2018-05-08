@@ -10,8 +10,8 @@ Mostly made using HTML, CSS and JS.
     -This is a one page website, so there is only one html file.
 
 2. The [CSS folder](css/) contains all Style Sheets for this website.
-    -The main.css file has the CSS for all the sections in the website.
-    -The other .css files have been used in adding functionalities to the website, such as the Owl Carousel
+    - The main.css file has the CSS for all the sections in the website.
+    - The other .css files have been used in adding functionalities to the website, such as the Owl Carousel
   
 3. The [js folder](js/) has the JavaScript files for the project.
     -The main.js files which contains the implementation of all functionalities used.
