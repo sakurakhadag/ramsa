@@ -4,7 +4,7 @@ This is a prototype website for this year's International Conference on Recent A
 
 Please click [here](https://sakurakhadag.github.io/ramsa/) to go to the website.
 
-Mostly made using HTML, CSS, JS and PHP.
+Mostly made using HTML, CSS and JS.
 
 The webpage is in index.html.
 This is a one page website, so there is only one html file.
@@ -13,13 +13,13 @@ The [CSS folder](css/) contains all Style Sheets for this website.
   The main.css file has the CSS for all the sections in the website.
   The other .css files have been used in adding functionalities to the website, such as the Owl Carousel
   
-The [js folder](ramsa/js) has the JavaScript files for the project.
+The [js folder](js/) has the JavaScript files for the project.
   The main.js files which contains the implementation of all functionalities used.
   Also included are owl.carousel.js for the Owl Carousel in the Speaker Section, smoothscroll.js for Smooth Scrolling, etc.
   
-The [img folder](https://github.com/sakurakhadag/ramsa/img) contains all images used in the website.
+The [img folder](img/) contains all images used in the website.
   
-The [fonts folder](https://github.com/sakurakhadag/ramsa/fonts) has a listing of all fonts used in the website.
+The [fonts folder](fonts/) has a listing of all fonts used in the website.
 
 You are welcome to look through the files and the website.
 
